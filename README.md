@@ -1,15 +1,18 @@
 # Summary
 
-* [Overview](README.md)
-* [Title](title.md)
-* [Initial References](initial-references.md)
-* [Abstract](abstract.md)
-* [Introduction](introduction.md)
-* [Materials and Methods](materials-and-methods.md)
-* [Results](results.md)
-* [Tables](tables.md)
-* [Discussion](discussion.md)
-* [Conflict of interest](conflict-of-interest.md)
-* [Acknowledgements](acknowledgements.md)
-* [References](references.md)
+* [Title](/Article/title.md)
+* [Initial References](/Article/initial-references.md)
+* [Abstract](/Article/abstract.md)
+* [Introduction](/Article/introduction.md)
+* [Materials and Methods](/Article/materials-and-methods.md)
+* [Results](/Article/results.md)
+* [Tables](/Article/tables.md)
+* [Discussion](/Article/discussion.md)
+* [Conflict of interest](/Article/conflict-of-interest)
+* [Acknowledgements](/Article/acknowledgements.md)
+* [References](/Article/initial-references.md)
+
+---
+
+[Create New project](https://github.com/EngTranslate/Plantilla)
 
