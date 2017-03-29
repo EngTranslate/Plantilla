@@ -8,7 +8,7 @@
 * [Results](/Article/results.md)
 * [Tables](/Article/tables.md)
 * [Discussion](/Article/discussion.md)
-* [Conflict of interest](/Article/conflict-of-interest)
+* [Conflict of interest](/Article/conflict-of-interest.md)
 * [Acknowledgements](/Article/acknowledgements.md)
 * [References](/Article/initial-references.md)
 
