@@ -1,4 +1,6 @@
 #### Conflict of interest
 
-The authors have no conflicts of interests.
+Write something like:
+
+"The authors have no conflicts of interests."
 
