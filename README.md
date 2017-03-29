@@ -14,7 +14,5 @@
 
 ---
 
-[Create New project](https://github.com/EngTranslate/Plantilla)
-
-How to get started.
+[How to get started.](/Article/guid.md)
 
