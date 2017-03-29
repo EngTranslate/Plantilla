@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Conflict of interest](conflict-of-interest.md)
+* [Guid](guid.md)
 

@@ -16,3 +16,5 @@
 
 [Create New project](https://github.com/EngTranslate/Plantilla)
 
+How to get started.
+
