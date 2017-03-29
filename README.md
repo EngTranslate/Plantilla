@@ -14,5 +14,5 @@
 
 ---
 
-[How to get started.](/Article/guid.md)
+[How to get started.](https://github.com/EngTranslate/Proyectos/blob/master/guid.md)
 
