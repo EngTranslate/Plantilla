@@ -2,5 +2,5 @@
 
 Write something like:
 
-""The authors have no conflicts of interests.""
+"""The authors have no conflicts of interests."""
 
