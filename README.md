@@ -14,5 +14,7 @@
 
 ---
 
-[How to get started.](https://github.com/EngTranslate/Proyectos/blob/master/guid.md)
+[How to get started writing.](https://github.com/EngTranslate/Proyectos/blob/master/guid.md)
+
+[Build article from sections.](https://github.com/EngTranslate/Proyectos/blob/master/compose.md)
 
