@@ -1,6 +1,6 @@
 # Summary
 
-* [Title](/Article/title.md#user-content-title)
+* [Title](/Article/title.m)
 * [Initial References](/Article/initial-references.md)
 * [Abstract](/Article/abstract.md)
 * [Introduction](/Article/introduction.md)
